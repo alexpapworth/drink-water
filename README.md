@@ -2,7 +2,7 @@
 
 An AppleScript to remind you to drink water!
 
-![An example of a notification](notification.png)
+<a target="_blank" rel="noopener noreferrer" href="/alexpapworth/drink-water/blob/dev/notification.png"><img src="/alexpapworth/drink-water/raw/dev/notification.png" alt="An example of a notification" style="width: 400px;"></a>
 
 ## Usage
 
