@@ -2,13 +2,11 @@
 
 An AppleScript to remind you to drink water!
 
-![An example of a notification](screenshot.png)
+![An example of a notification](notification.png)
 
 ## Usage
 
-Download the final app here.
-
-[Drink Water.app](https://raw.githubusercontent.com/alexpapworth/drink-water/master/Download/Drink%20Water.zip)
+Download the final app here. [Drink Water.app](https://github.com/alexpapworth/drink-water/raw/master/Download/Drink%20Water.zip)
 
 Unzip it and save it somewhere safe. Click the app each day when you're ready to start drinking water
 
