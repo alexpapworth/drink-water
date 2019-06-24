@@ -2,7 +2,7 @@
 
 An AppleScript to remind you to drink water.
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/alexpapworth/drink-water/blob/master/notification.png"><img src="https://raw.githubusercontent.com/alexpapworth/drink-water/master/notification.png" alt="An example of a notification" style="width: 400px;"></a>
+<img src="https://raw.githubusercontent.com/alexpapworth/drink-water/master/notification.png" alt="An example of a notification" width="400">
 
 ## Download
 
@@ -14,7 +14,7 @@ Unzip it and save it to your `Applications` folder.
 
 After launching the app, you'll be prompted to enter how many waters you've drunk already. Enter `0` for none.
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/alexpapworth/drink-water/blob/master/water-count.png"><img src="https://raw.githubusercontent.com/alexpapworth/drink-water/master/water-count.png" alt="An example of a notification" style="width: 500px;"></a>
+<img src="https://raw.githubusercontent.com/alexpapworth/drink-water/master/water-count.png" alt="An example of the How Many Waters popup" width="500">
 
 At the start of each hour, you'll be reminded to drink another glass. After 8 glasses, the app will close.
 
